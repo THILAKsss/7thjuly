@@ -11,7 +11,7 @@ public class FirstProj {
 		
 		double d =8.90f; //imp type
 		
-		
+		double d1=9.8;
 		
 	}
 	
